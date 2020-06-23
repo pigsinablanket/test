@@ -1,5 +1,5 @@
 function sayHello() {
-    alert("howdy");;
+    alert("howdy");
 }
 
 sayHello
